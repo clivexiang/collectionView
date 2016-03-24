@@ -1,1 +1,1 @@
-iii
+colletionView   and tableView autoLayout
